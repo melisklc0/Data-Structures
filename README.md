@@ -1,2 +1,2 @@
 # Data-Structures
-Veri yapıları ve bazı sıralama algoritmaları.
+Data structures and some sorting algorithms.
