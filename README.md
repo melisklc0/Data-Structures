@@ -1,2 +1,2 @@
 # Data-Structures
-Data structures and sorting algorithms.
+My studies on data structures and sorting algorithms.
